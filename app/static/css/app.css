@@ -5,3 +5,31 @@ body {
 footer  {
     padding-top: 20px;
 }
+body {
+    padding-top: 5rem;
+}
+
+footer  {
+    padding-top: 20px;
+    clear: left;
+}
+.thumbnail{
+    height: 250px;
+    width: 385px;
+}
+.news__item{
+    height:550px;
+    width: 30%;
+    -moz-box-shadow: 0 0 20px black;
+    -webkit-box-shadow: 0 0 15px black;
+    box-shadow: 0 0 20px black;
+    border-top-width: 4px;
+    border-top-color: green;
+    margin: 15px;
+    float: left;
+    border-radius:5px;
+    padding:5px;
+}
+ul {
+  list-style-type: none;
+}
